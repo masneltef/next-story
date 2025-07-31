@@ -95,11 +95,3 @@ npm run start    # Production server
 2. Create feature branch
 3. Make changes
 4. Submit PR
-
-## 📄 License
-
-MIT License - feel free to use for any project!
-
----
-
-**Built with ❤️ for storytellers**
